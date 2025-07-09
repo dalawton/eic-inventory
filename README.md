@@ -25,17 +25,17 @@ Feedback:
  -    Add ability to track future finished products and their parts
  -    ✔️ Be able to add contract number and have a dropdown for contract number
  -    ✔️ Add descriptions for parts in PO order
- -    ✔️ Get email working and send to Trung and Patsy on submission
+ -    ✔️ Get email working and send to Trung, Max and Patsy on submission
 </i>
 
-To Do:
-✔️ Update Inventory Pages to theme 
-✔️ Finish updating Parts database for checkout completed batteries 
-✔️ Update checkout completed to theme 
-- Transfer to server and get all parts working 
-- Create Inventory Report 
+To Do: \
+✔️ Update Inventory Pages to theme \
+✔️ Finish updating Parts database for checkout completed batteries \
+✔️ Update checkout completed to theme \
+✔️ Transfer to server and get all parts working 
+- Create Inventory Report \
 ✔️ Add spot to add future products 
 - Add spot to add tracking numbers to POs 
 - Add spot to update lead times 
-- Create overview document for general bug fixing and possible problems 
+✔️ Create overview document for general bug fixing and possible problems 
 - Maybe create a spot to add tracking/serial number to completed batteries

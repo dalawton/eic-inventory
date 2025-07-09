@@ -36,6 +36,6 @@ To Do: \
 - Create Inventory Report \
 ✔️ Add spot to add future products 
 - Add spot to add tracking numbers to POs 
-- Add spot to update lead times 
+- Add spot to update lead times \
 ✔️ Create overview document for general bug fixing and possible problems 
 - Maybe create a spot to add tracking/serial number to completed batteries
